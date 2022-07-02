@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently working as Freelancer
 - 💞️ I’m currently learning Node.js, React.js.
-- 📫 How to reach me Email-Id: prafullwagh31@gmail.com / Contact : +91 9423290079
 
 <br/>
 
