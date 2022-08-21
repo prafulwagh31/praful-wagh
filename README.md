@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Praful Wagh, Frontend Developer 
-
-- 🌱 I’m currently working as Freelancer
-- 💞️ I’m currently learning Node.js, React.js.
+- 👋 Hi, I’m Praful Wagh
 
 <br/>
 
